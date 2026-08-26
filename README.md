@@ -13,6 +13,7 @@
 | [Docker Swarm](https://github.com/iridescf/Docker_compose_and_swarm)          | Использование docker compose и калстера Swarm | Docker , Docker compose, docker swarm, vagrant    | Настроил приложение для работы в кластере Docker sworm и протестировал|
 | [Автоматизация Java-сервисов](https://github.com/iridescf/Automation_tools)      | Развёртывание Java-приложений с автоматическим обнаружением сервисов       | Ansible, Consul, Service Discovery    | Сервис и база данных орпеделяются и приложение работает |
 | [Изучение PostgreSQL](https://github.com/iridescf/SQL_bootcamp_beginner)      | Изучение запросов. Создание таблиц и обновление данных.      | PostgreSQL    | Научился работать сбазой данных |
+| [Изучение Python](https://github.com/iridescf/Python_T2_exam_sim_and_pic_downloader)      | Проект из двух частей. 1. Симуляция экзамена разделение используя мультипроцессинг 2. Асинхронная загрузка изображений      | Python    | Научился использовать библиотеки asyncio, multiprocessing, pretty table |
 | [Изучение Python](https://github.com/iridescf/Bootcamp_Python_1)      | Изучение базовых функций, типов данных, конструкций языка.      | Python    | Научился базовым возможнотям языка  |
 | [Матрицы на C](https://github.com/iridescf/C_matrix_interpretation) | Изучение билиотеки matrix.h | C | Написал функции для обработки матриц
 
